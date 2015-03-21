@@ -1,4 +1,4 @@
-#Q1
+
 ## residual plot
 airquality
 fit.aq <- lm(Ozone ~ Solar.R + Wind + Temp,data=airquality)
